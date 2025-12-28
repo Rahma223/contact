@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:contact/core/app_colors.dart';
-import 'package:contact/features/models/contacts_model.dart';
+import 'package:contact/features/home/models/contacts_model.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
